@@ -1,7 +1,7 @@
 [
   {
     "name": "Trivia Game",
-    "live": "https://app.https://seir-penguin-project-1-phi.vercel.app/.com/whatever",
+    "live": "https://seir-penguin-project-1-phi.vercel.app/",
     "git": "https://github.com/mitchellp0709/seir_penguin_project_1",
     "image": "./triviagame.png"
   },
