@@ -3,12 +3,12 @@
     "name": "Trivia Game",
     "live": "https://seir-penguin-project-1-phi.vercel.app/",
     "git": "https://github.com/mitchellp0709/seir_penguin_project_1",
-    "image": "./triviagame.png"
+    "image": "https://i.imgur.com/fmVkoUt.png"
   },
   {
     "name": "Smite Team Builder",
     "live": "https://jmp-penguin-p2.herokuapp.com/user/login",
     "git": "https://github.com/mitchellp0709/project2",
-    "image": "./smiteapp.png"
+    "image": "https://i.imgur.com/Fr1EYB3.png"
   }
 ]
