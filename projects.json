@@ -10,5 +10,11 @@
     "live": "https://jmp-penguin-p2.herokuapp.com/user/login",
     "git": "https://github.com/mitchellp0709/project2",
     "image": "https://i.imgur.com/Fr1EYB3.png"
+  },
+  {
+    "name": "Jeopardy!",
+    "live": "https://elastic-hoover-8dc9ed.netlify.app/",
+    "git": "https://github.com/mitchellp0709/Jeopardy-",
+    "image": "https://i.imgur.com/hBFmLQE.png"
   }
 ]
