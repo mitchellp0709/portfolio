@@ -1,5 +1,12 @@
 [
   {
+    "name": "Retweet",
+    "live": "https://heuristic-mcclintock-68c3db.netlify.app/",
+    "git": "https://github.com/mitchellp0709/Project-3-Frontend",
+    "image": "https://i.imgur.com/2EWOdHJ.png",
+    "about": "We set out to make what can only be described as the most innovative, ground breaking piece of social media since people used literal messages tied to birds. This one-of-a-kind social media masterpiece could only be described as: Retweet. For the first time in recorded history, users can seamlessly send messages to friends, family, and complete strangers. Have a thought? BAM!! Retweet it. It's that simple. All joking aside, this project was a group effort where we made a Twitter clone using React for the frontend, and made a custom backend using MongoDB. This site is inclusive of user authentication, profile page, main page, and full edit functionality. Come make an account and check it out!"
+  },
+  {
     "name": "Trivia Game",
     "live": "https://seir-penguin-project-1-phi.vercel.app/",
     "git": "https://github.com/mitchellp0709/seir_penguin_project_1",
@@ -11,7 +18,7 @@
     "live": "https://jmp-penguin-p2.herokuapp.com/user/login",
     "git": "https://github.com/mitchellp0709/project2",
     "image": "https://i.imgur.com/Fr1EYB3.png",
-    "about":"Made using Express, MongoDB, Mongoose, and Liquid, this is a fan site to one of my favorite video games, Smite! Here users can make an account (with hashed passwords) and view all playable characters in Smite. Users can edit the default characters, create their own, and form teams to see each team's advantages and disadvantes on the battlefield."
+    "about": "Made using Express, MongoDB, Mongoose, and Liquid, this is a fan site to one of my favorite video games, Smite! Here users can make an account (with hashed passwords) and view all playable characters in Smite. Users can edit the default characters, create their own, and form teams to see each team's advantages and disadvantes on the battlefield."
   },
   {
     "name": "Jeopardy!",
